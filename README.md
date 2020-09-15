@@ -4,6 +4,8 @@
 
 I currently work with [IQZ Systems](https://iqzsystems.com) here in [Coimbatore, India](https://goo.gl/maps/Z5fL1dgnqRpfJKrK8) as an _Enterprise Technology Architect_. It is a lot of fun and I get to learn a lot.
 
+I also write random stuff [here at my blog](https://rajshrimohanks.me).
+
 ## Stuff I love
 
 - Programming (duh!)
