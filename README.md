@@ -1,4 +1,4 @@
-# Hi! I’m Rajshri Mohan.
+# Hi! I’m Rajshri Mohan
 
 **I build software for a living.**
 
@@ -8,7 +8,7 @@ I also write random stuff [here at my blog](https://rajshrimohanks.me).
 
 ## Stuff I love
 
-- Programming (duh!)
+- Programming _(duh!)_
 - [Spotify](https://open.spotify.com/user/21gswm52ozbiyosazhjiepygy?si=PHBmzLFOTNWzk6kIh4FkoA)
 - Coffee
 - Chocolates
