@@ -18,3 +18,7 @@ I also write random stuff [here at my blog](https://rajshrimohanks.me).
 I’m always up for a nice talk and food. Drop me a message in social media if you’d like to meet up. :-)
 
 Have a good day!
+
+## Certifications
+
+[![Certified Kubernetes Administrator](./res/cka-certified-kubernetes-administrator.png)](https://www.credly.com/badges/f65af314-f556-40b1-a1cf-b685daeefc0b/public_url)
