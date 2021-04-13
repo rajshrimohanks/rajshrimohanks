@@ -18,3 +18,7 @@ I also write random stuff [here at my blog](https://rajshrimohanks.me).
 I’m always up for a nice talk and food. Drop me a message in social media if you’d like to meet up. :-)
 
 Have a good day!
+
+<div data-iframe-width="150" data-iframe-height="300" data-share-badge-id="f65af314-f556-40b1-a1cf-b685daeefc0b"
+  data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
