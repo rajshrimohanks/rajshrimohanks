@@ -22,3 +22,4 @@ Have a good day!
 ## Certifications
 
 [![Certified Kubernetes Administrator](./res/cka-certified-kubernetes-administrator.png)](https://www.credly.com/badges/f65af314-f556-40b1-a1cf-b685daeefc0b/public_url)
+[![HashiCorp Certified: Terraform Associate](./res/hashicorp-certified-terraform-associate.png)](https://www.credly.com/badges/f529987d-8ab9-4271-9364-296edf07f10b/public_url)
